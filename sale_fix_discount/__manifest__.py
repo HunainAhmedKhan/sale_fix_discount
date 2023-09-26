@@ -10,7 +10,7 @@
     "application": False,
     "installable": True,
     'images': ['static/description/banner.png'],
-    "depends": ["sale_management", "account_fix_discount"],
+    "depends": ["sale_management"],
     "data": [
         "views/sale_order_views.xml",
         "views/sale_portal_templates.xml",
